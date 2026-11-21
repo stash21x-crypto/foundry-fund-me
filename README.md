@@ -1,5 +1,9 @@
 # Foundry Fund Me
 
+![Smart Contract Development](https://img.shields.io/badge/Focus-Smart%20Contract%20Development-blue)
+![Education](https://img.shields.io/badge/Learning-Cyfrin%20Updraft-orange)
+![License](https://img.shields.io/badge/License-MIT%20License-yellow)
+
 A Foundry smart contract project that accepts ETH funding from users and allows the contract owner to withdraw the collected balance.
 
 The project includes unit and integration tests, a Chainlink price-feed mock for local development, deployment scripts, and funding/withdrawal interaction scripts.
